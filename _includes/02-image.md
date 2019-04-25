@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+!{image of coconut](http://www.pngall.com/wp-content/uploads/2016/04/Coconut-PNG-HD.png)
